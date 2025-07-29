@@ -70,15 +70,28 @@ const Contact = () => {
 
 
   <p>
-    <span className="font-semibold">Resume:</span>{" "}
-    <a
-      href=" https://www.linkedin.com/in/charlotte-lew-86ab591bb/ "
-      target="_blank"
-      rel="noopener noreferrer"
-      className="underline hover:text-white"
-    >
- www.linkedin.com/in/charlotte-lew-86ab591bb/     </a>
-  </p>
+  <a
+    href="https://docs.google.com/document/d/1Lc5abDzNW-2OGgAV0nGMXX_qNIBR_iDATskLMX7yDmw/edit?usp=sharing"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="underline hover:text-white font-semibold"
+  >
+    Resume (CS)
+  </a>
+</p>
+
+
+<p>
+  <a
+    href="https://docs.google.com/document/d/1vDQmNxtlDs3Rzp_zBgCGYXmKvKtlV7NEJs1WtelrHHQ/edit?usp=sharing/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="underline hover:text-white font-semibold"
+  >
+    Resume (Design)
+  </a>
+</p>
+
 </div>
 
 
