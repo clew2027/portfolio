@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "clew-portfolio",
+			"path": "../.."
+		},
+		{
+			"name": "public",
+			"path": "../../../Downloads/3d-portfolio-main/public"
+		}
+	],
+	"settings": {}
+}
